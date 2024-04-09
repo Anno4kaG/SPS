@@ -10,9 +10,10 @@
 		</Metadata>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка" id="6df2307a-d41a-4b06-8c66-cf599b351b24" configVersion="0da6d73d161ebb44adc8f4bc9d820df600000000"/>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка.Form" id="6df2307a-d41a-4b06-8c66-cf599b351b24.0" configVersion="69aede7e6fb637448dc0c0b78076306700000000"/>
+		<Metadata name="Catalog.Судна" id="68b5c664-15ea-481d-b670-f69429a3e69b" configVersion="ce1310c199139f458b210f40f326a70e00000000"/>
 		<Metadata name="CommonForm.ФормаКонстант" id="c3087192-1e91-417d-a2f4-66610829e561" configVersion="4e46f5989be48948aa1182ea682dbada00000000"/>
 		<Metadata name="CommonForm.ФормаКонстант.Form" id="c3087192-1e91-417d-a2f4-66610829e561.0" configVersion="a82fc87f7328b740b8ad6539fe0f590d00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="29338f11-5238-42f5-b416-8092b8f58de6" configVersion="433b2c6218f992499d701bb9bda58dfa00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="29338f11-5238-42f5-b416-8092b8f58de6" configVersion="87d3d686d12d604ba3ac66414ba7498400000000"/>
 		<Metadata name="Constant.НаименованиеОрганизации" id="bcd1102c-db42-4dcb-a686-d1d54543b1c3" configVersion="14e6d860c6a2154b88a44aff7c8b2e9800000000"/>
 		<Metadata name="Constant.Почта" id="553927ab-45b1-4cad-b1bf-8c7fb132879e" configVersion="4bc1892d2dc27b40af7ee51c7e8d98eb00000000"/>
 		<Metadata name="Constant.Телефон" id="3c5c1677-d0f4-475a-ad89-5029ba4a7ee1" configVersion="e92aef8e02c8b940abcc34faeb2ee61800000000"/>
@@ -28,6 +29,6 @@
 		<Metadata name="Language.Русский" id="c24bf22d-869a-46aa-a186-79c6c87991d9" configVersion="47b01b88b6713340be7565e2ec1bb4ac00000000"/>
 		<Metadata name="Subsystem.Бизнес_процесс" id="7c0014c9-cc68-4c4c-bd3c-9ea5b891a0ba" configVersion="d596bf0ed0dfca4696b886497805c17f00000000"/>
 		<Metadata name="Subsystem.Документация" id="7b115c41-ac7c-4659-ba19-f56d8efd9f2b" configVersion="090e65cc5794234d9b647583f9d836cd00000000"/>
-		<Metadata name="Subsystem.Общая_информация" id="a194f58f-60e4-4b9a-a628-5733a2f4628e" configVersion="247fe3613fa03749b0f5211d36501f3200000000"/>
+		<Metadata name="Subsystem.Общая_информация" id="a194f58f-60e4-4b9a-a628-5733a2f4628e" configVersion="46e33ffe4f63654ab76042c94a5e2d9500000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

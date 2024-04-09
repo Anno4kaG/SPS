@@ -219,6 +219,7 @@
 			<Constant>Почта</Constant>
 			<CommonForm>ФормаКонстант</CommonForm>
 			<Catalog>Сотрудники</Catalog>
+			<Catalog>Судна</Catalog>
 			<Enum>Пол</Enum>
 			<Enum>ТипСклада</Enum>
 		</ChildObjects>
