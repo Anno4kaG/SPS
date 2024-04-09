@@ -52,11 +52,11 @@
 			</EnumValue>
 			<EnumValue uuid="6814ddfc-f993-455c-b360-5460a65ba75d">
 				<Properties>
-					<Name>Крытый</Name>
+					<Name>Закрытый</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Крытый</v8:content>
+							<v8:content>Закрытый</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
