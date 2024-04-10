@@ -224,6 +224,7 @@
 			<Catalog>РасстоянияПеревозок</Catalog>
 			<Document>ПоступлениеГрузов</Document>
 			<Document>ОказаниеУслуги</Document>
+			<Document>ОтправкаГрузов</Document>
 			<Enum>Пол</Enum>
 			<Enum>ТипСклада</Enum>
 			<Enum>СтатусСудна</Enum>
