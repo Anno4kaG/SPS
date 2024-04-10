@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
 	<ConfigVersions>
-		<Metadata name="AccumulationRegister.УчетГрузов" id="883e8c07-2b7d-46f9-b2aa-edb6335754e3" configVersion="b261abda008b974c9c9b7e316c38d24200000000">
-			<Metadata name="AccumulationRegister.УчетГрузов.Dimension.Наличие" id="154e7337-f916-423a-9670-a9c63dbd820c"/>
+		<Metadata name="AccumulationRegister.УчетГрузов" id="883e8c07-2b7d-46f9-b2aa-edb6335754e3" configVersion="e67c807323bef840a70e1b9798a6bd3900000000">
 			<Metadata name="AccumulationRegister.УчетГрузов.Dimension.Груз" id="79f0d20f-5d50-4762-a00b-a7f8d094c8f9"/>
 			<Metadata name="AccumulationRegister.УчетГрузов.Resource.Количество" id="bb7abebe-e60c-4f91-84a5-2cea283b1892"/>
 		</Metadata>
@@ -45,7 +44,7 @@
 			<Metadata name="Document.ОтправкаГрузов.Attribute.Ответственный" id="bdd21636-db50-4728-a8a8-80a8468afcc2"/>
 			<Metadata name="Document.ОтправкаГрузов.TabularSection.ТЧ_Отправка.Attribute.Судно" id="d2df3b93-e3af-4062-9899-73357d51c61e"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеГрузов" id="e2b9bcfc-4183-481b-a035-1e56f6f6ee90" configVersion="d4087df5a925f748ad8bd29d99611e8a00000000">
+		<Metadata name="Document.ПоступлениеГрузов" id="e2b9bcfc-4183-481b-a035-1e56f6f6ee90" configVersion="a6fb6ad796e8e4429ff772493671fdcd00000000">
 			<Metadata name="Document.ПоступлениеГрузов.Attribute.Склад" id="53a6f912-4945-4175-a113-4c970137a058"/>
 			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.Груз" id="633a83bb-cc3a-459a-8229-571bea63a660"/>
 			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы" id="6dbe4371-0db9-4542-9064-4f22a3015490"/>
@@ -54,6 +53,7 @@
 			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.ДатаПоступления" id="adaa395f-c722-4921-918d-d018d5a5777d"/>
 			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.Судно" id="b8e45b1f-92d6-4eb5-a472-e9983de60857"/>
 		</Metadata>
+		<Metadata name="Document.ПоступлениеГрузов.ObjectModule" id="e2b9bcfc-4183-481b-a035-1e56f6f6ee90.0" configVersion="7119a3e65c3fcb47a510d3d2068f662e00000000"/>
 		<Metadata name="Enum.Пол" id="f689c0ba-ca65-4f00-a370-107edf289dea" configVersion="f5dddfccf167394bb301462087a978cc00000000">
 			<Metadata name="Enum.Пол.EnumValue.Женский" id="f7b757d1-d2f5-48eb-adf8-6f85f7da5171"/>
 			<Metadata name="Enum.Пол.EnumValue.Мужской" id="f7e2a3f9-512e-47cf-bbfd-67d601ba8886"/>
