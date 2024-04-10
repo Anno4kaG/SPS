@@ -26,7 +26,7 @@
 		</Metadata>
 		<Metadata name="CommonForm.ФормаКонстант" id="c3087192-1e91-417d-a2f4-66610829e561" configVersion="15f46038bd9e53458bbfa12bebc5d91d00000000"/>
 		<Metadata name="CommonForm.ФормаКонстант.Form" id="c3087192-1e91-417d-a2f4-66610829e561.0" configVersion="1c662d5585db43478fcc0d8ee809953500000000"/>
-		<Metadata name="Configuration.Конфигурация" id="29338f11-5238-42f5-b416-8092b8f58de6" configVersion="dfe0d63f834b0248b9b879fdedb09fda00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="29338f11-5238-42f5-b416-8092b8f58de6" configVersion="c34e15aec7e76d46ab72776e404e628e00000000"/>
 		<Metadata name="Constant.НаименованиеОрганизации" id="bcd1102c-db42-4dcb-a686-d1d54543b1c3" configVersion="171dd9fcf2645e49a57b4b132222789300000000"/>
 		<Metadata name="Constant.Почта" id="553927ab-45b1-4cad-b1bf-8c7fb132879e" configVersion="715b287949650a47ae45fca87fe9085500000000"/>
 		<Metadata name="Constant.Телефон" id="3c5c1677-d0f4-475a-ad89-5029ba4a7ee1" configVersion="53970e9cadc26c46b5a9d660350df25f00000000"/>
@@ -88,8 +88,11 @@
 			<Metadata name="InformationRegister.СтоимостьПеревозок.Dimension.Расстояние" id="b32e56fe-57e7-4737-8ec7-f9497ec494cf"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="c24bf22d-869a-46aa-a186-79c6c87991d9" configVersion="06f7b1c637ccb847834140c7c565e6ee00000000"/>
+		<Metadata name="Report.Грузы" id="4fc199ea-c503-47fb-8765-eea976dfb3a6" configVersion="9a8e72fa1c02ca479b230d952c0049d600000000"/>
+		<Metadata name="Report.Грузы.Template.ОсновнаяСхемаКомпоновкиДанных" id="46d9f000-45dc-4b11-8cd7-c49012e087ff" configVersion="2b488066fa287e4a8546f6b18aeb7d7900000000"/>
+		<Metadata name="Report.Грузы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="46d9f000-45dc-4b11-8cd7-c49012e087ff.0" configVersion="7a080b93b6f0bd46a4959ae068eb53b500000000"/>
 		<Metadata name="Subsystem.Бизнес_процесс" id="7c0014c9-cc68-4c4c-bd3c-9ea5b891a0ba" configVersion="a2d5b5587e8a0646b7faf1fc7d3ea9bb00000000"/>
-		<Metadata name="Subsystem.Документация" id="7b115c41-ac7c-4659-ba19-f56d8efd9f2b" configVersion="108a89f24771e34c823467b6d3c6fc8a00000000"/>
+		<Metadata name="Subsystem.Документация" id="7b115c41-ac7c-4659-ba19-f56d8efd9f2b" configVersion="21686c84e89b3642b3734553e2dedaac00000000"/>
 		<Metadata name="Subsystem.Документация.CommandInterface" id="7b115c41-ac7c-4659-ba19-f56d8efd9f2b.1" configVersion="bc02572481168b4ca2ecb655cfe8f9c200000000"/>
 		<Metadata name="Subsystem.Общая_информация" id="a194f58f-60e4-4b9a-a628-5733a2f4628e" configVersion="0ebc0371b78b33428a8aa444db50812000000000"/>
 	</ConfigVersions>

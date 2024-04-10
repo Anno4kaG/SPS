@@ -228,6 +228,7 @@
 			<Enum>Пол</Enum>
 			<Enum>ТипСклада</Enum>
 			<Enum>СтатусСудна</Enum>
+			<Report>Грузы</Report>
 			<InformationRegister>СтоимостьПеревозок</InformationRegister>
 			<AccumulationRegister>УчетГрузов</AccumulationRegister>
 		</ChildObjects>
