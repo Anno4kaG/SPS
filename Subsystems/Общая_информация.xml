@@ -18,6 +18,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.ФормаКонстант</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Сотрудники</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Судна</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Грузы</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

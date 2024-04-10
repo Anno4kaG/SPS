@@ -167,14 +167,23 @@
 			<ExtendedTooltip name="СписокКомпоновщикНастроекПользовательскиеНастройкиРасширеннаяПодсказка" id="22"/>
 		</UsualGroup>
 		<Table name="ТЧ_ТрудоваяДеятельностьФС" id="42">
+			<Representation>List</Representation>
+			<TitleLocation>Top</TitleLocation>
+			<AutoInsertNewRow>true</AutoInsertNewRow>
+			<EnableStartDrag>true</EnableStartDrag>
+			<EnableDrag>true</EnableDrag>
+			<DataPath>Items.Список.CurrentData.ТЧ_ТрудоваяДеятельность</DataPath>
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
 					<v8:content>Трудовая деятельность</v8:content>
 				</v8:item>
 			</Title>
+			<RowFilter xsi:nil="true"/>
 			<ContextMenu name="ТЧ_ТрудоваяДеятельностьФСКонтекстноеМеню" id="43"/>
-			<AutoCommandBar name="ТЧ_ТрудоваяДеятельностьФСКоманднаяПанель" id="44"/>
+			<AutoCommandBar name="ТЧ_ТрудоваяДеятельностьФСКоманднаяПанель" id="44">
+				<Autofill>false</Autofill>
+			</AutoCommandBar>
 			<ExtendedTooltip name="ТЧ_ТрудоваяДеятельностьФСРасширеннаяПодсказка" id="45"/>
 			<SearchStringAddition name="ТЧ_ТрудоваяДеятельностьФССтрокаПоиска" id="46">
 				<AdditionSource>
@@ -200,6 +209,44 @@
 				<ContextMenu name="ТЧ_ТрудоваяДеятельностьФСУправлениеПоискомКонтекстноеМеню" id="53"/>
 				<ExtendedTooltip name="ТЧ_ТрудоваяДеятельностьФСУправлениеПоискомРасширеннаяПодсказка" id="54"/>
 			</SearchControlAddition>
+			<ChildItems>
+				<InputField name="ТЧ_ТрудоваяДеятельностьФСНомерСтроки" id="55">
+					<DataPath>Items.Список.CurrentData.ТЧ_ТрудоваяДеятельность.LineNumber</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ТЧ_ТрудоваяДеятельностьФСНомерСтрокиКонтекстноеМеню" id="56"/>
+					<ExtendedTooltip name="ТЧ_ТрудоваяДеятельностьФСНомерСтрокиРасширеннаяПодсказка" id="57"/>
+				</InputField>
+				<InputField name="ТЧ_ТрудоваяДеятельностьФССсылка" id="58">
+					<DataPath>Items.Список.CurrentData.ТЧ_ТрудоваяДеятельность.Ref</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ТЧ_ТрудоваяДеятельностьФССсылкаКонтекстноеМеню" id="59"/>
+					<ExtendedTooltip name="ТЧ_ТрудоваяДеятельностьФССсылкаРасширеннаяПодсказка" id="60"/>
+				</InputField>
+				<InputField name="ТЧ_ТрудоваяДеятельностьФСДолжность" id="61">
+					<DataPath>Items.Список.CurrentData.ТЧ_ТрудоваяДеятельность.Должность</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ТЧ_ТрудоваяДеятельностьФСДолжностьКонтекстноеМеню" id="62"/>
+					<ExtendedTooltip name="ТЧ_ТрудоваяДеятельностьФСДолжностьРасширеннаяПодсказка" id="63"/>
+				</InputField>
+				<InputField name="ТЧ_ТрудоваяДеятельностьФСНачалоРаботы" id="64">
+					<DataPath>Items.Список.CurrentData.ТЧ_ТрудоваяДеятельность.НачалоРаботы</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ТЧ_ТрудоваяДеятельностьФСНачалоРаботыКонтекстноеМеню" id="65"/>
+					<ExtendedTooltip name="ТЧ_ТрудоваяДеятельностьФСНачалоРаботыРасширеннаяПодсказка" id="66"/>
+				</InputField>
+				<InputField name="ТЧ_ТрудоваяДеятельностьФСОкончаниеРаботы" id="67">
+					<DataPath>Items.Список.CurrentData.ТЧ_ТрудоваяДеятельность.ОкончаниеРаботы</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ТЧ_ТрудоваяДеятельностьФСОкончаниеРаботыКонтекстноеМеню" id="68"/>
+					<ExtendedTooltip name="ТЧ_ТрудоваяДеятельностьФСОкончаниеРаботыРасширеннаяПодсказка" id="69"/>
+				</InputField>
+				<InputField name="ТЧ_ТрудоваяДеятельностьФСОрганизация" id="70">
+					<DataPath>Items.Список.CurrentData.ТЧ_ТрудоваяДеятельность.Организация</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ТЧ_ТрудоваяДеятельностьФСОрганизацияКонтекстноеМеню" id="71"/>
+					<ExtendedTooltip name="ТЧ_ТрудоваяДеятельностьФСОрганизацияРасширеннаяПодсказка" id="72"/>
+				</InputField>
+			</ChildItems>
 		</Table>
 	</ChildItems>
 	<Attributes>

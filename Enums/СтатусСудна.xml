@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.12">
-	<Enum uuid="e94c68b1-2559-4f13-88de-210b501fe424">
+	<Enum uuid="932f4aa9-0037-4405-82bd-56281e27fa53">
 		<InternalInfo>
-			<xr:GeneratedType name="EnumRef.ТипСклада" category="Ref">
-				<xr:TypeId>a00ccafe-00b2-482e-9a75-e2a07fa20555</xr:TypeId>
-				<xr:ValueId>b7d47d24-c4ab-46a7-a445-7790233b3a1a</xr:ValueId>
+			<xr:GeneratedType name="EnumRef.СтатусСудна" category="Ref">
+				<xr:TypeId>597dc713-70e9-4b09-8e65-90f295636113</xr:TypeId>
+				<xr:ValueId>ac64b735-2939-493e-80bc-350326164d45</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumManager.ТипСклада" category="Manager">
-				<xr:TypeId>d927a2dc-89ee-44d3-888e-bcbd61dd3d54</xr:TypeId>
-				<xr:ValueId>2099300a-5d0d-4de6-8917-520130950e65</xr:ValueId>
+			<xr:GeneratedType name="EnumManager.СтатусСудна" category="Manager">
+				<xr:TypeId>6e3e1ec4-0da6-4a4c-83c5-75712778ca3e</xr:TypeId>
+				<xr:ValueId>7eca8e82-cbe3-46fc-b342-002ae3d7faad</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumList.ТипСклада" category="List">
-				<xr:TypeId>9c6894ad-1b2d-4e05-be86-5b7ebc7716e4</xr:TypeId>
-				<xr:ValueId>9f974443-9a40-4c6d-b7bc-893205fed3f3</xr:ValueId>
+			<xr:GeneratedType name="EnumList.СтатусСудна" category="List">
+				<xr:TypeId>3a1bd14c-9929-4463-a06e-41073d9b3e21</xr:TypeId>
+				<xr:ValueId>2e096097-1af6-404e-aaf8-6a2777052422</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ТипСклада</Name>
+			<Name>СтатусСудна</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Тип склада</v8:content>
+					<v8:content>Статус судна</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -38,25 +38,37 @@
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 		</Properties>
 		<ChildObjects>
-			<EnumValue uuid="c0b9a961-8110-4fee-bb77-311d8ed3ec4f">
+			<EnumValue uuid="d373b5dc-ca75-4a59-8c09-82766f423d94">
 				<Properties>
-					<Name>Открытый</Name>
+					<Name>ВПути</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Открытый</v8:content>
+							<v8:content>В пути</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="6814ddfc-f993-455c-b360-5460a65ba75d">
+			<EnumValue uuid="fae655fc-05eb-446d-8b58-e2837874a869">
 				<Properties>
-					<Name>Закрытый</Name>
+					<Name>ОжидаетОтправления</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Закрытый</v8:content>
+							<v8:content>Ожидает отправления</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1838e13a-86d3-4448-b4f3-31808b99c0e7">
+				<Properties>
+					<Name>НаСтоянке</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>На стоянке</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

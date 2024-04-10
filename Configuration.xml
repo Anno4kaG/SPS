@@ -220,8 +220,10 @@
 			<CommonForm>ФормаКонстант</CommonForm>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Судна</Catalog>
+			<Catalog>Грузы</Catalog>
 			<Enum>Пол</Enum>
 			<Enum>ТипСклада</Enum>
+			<Enum>СтатусСудна</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
