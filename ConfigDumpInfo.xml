@@ -45,16 +45,21 @@
 			<Metadata name="Document.ОтправкаГрузов.TabularSection.ТЧ_Отправка.Attribute.Судно" id="d2df3b93-e3af-4062-9899-73357d51c61e"/>
 		</Metadata>
 		<Metadata name="Document.ОтправкаГрузов.ObjectModule" id="8946949f-a639-421b-bd08-5a2fbbf5c8ab.0" configVersion="919fab9508a2a5408b723b539580981f00000000"/>
-		<Metadata name="Document.ПоступлениеГрузов" id="e2b9bcfc-4183-481b-a035-1e56f6f6ee90" configVersion="a6fb6ad796e8e4429ff772493671fdcd00000000">
+		<Metadata name="Document.ПоступлениеГрузов" id="e2b9bcfc-4183-481b-a035-1e56f6f6ee90" configVersion="043a6c1c58e5884fae693623c9b5207200000000">
 			<Metadata name="Document.ПоступлениеГрузов.Attribute.Склад" id="53a6f912-4945-4175-a113-4c970137a058"/>
 			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.Груз" id="633a83bb-cc3a-459a-8229-571bea63a660"/>
 			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы" id="6dbe4371-0db9-4542-9064-4f22a3015490"/>
 			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.СрокХранения" id="7b09d4b1-24b3-428b-9c17-aa34e0fd952e"/>
 			<Metadata name="Document.ПоступлениеГрузов.Attribute.Ответственный" id="9b68ce92-61ae-4b94-bd2a-674f6ec35e5e"/>
+			<Metadata name="Document.ПоступлениеГрузов.Command.Печать" id="a3845040-5436-43e9-bc03-99d3c10243b0"/>
 			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.ДатаПоступления" id="adaa395f-c722-4921-918d-d018d5a5777d"/>
 			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.Судно" id="b8e45b1f-92d6-4eb5-a472-e9983de60857"/>
 		</Metadata>
+		<Metadata name="Document.ПоступлениеГрузов.Command.Печать.CommandModule" id="a3845040-5436-43e9-bc03-99d3c10243b0.2" configVersion="8cbff2218cb6164da7a05400e5528ae700000000"/>
+		<Metadata name="Document.ПоступлениеГрузов.ManagerModule" id="e2b9bcfc-4183-481b-a035-1e56f6f6ee90.2" configVersion="c640bc684cd7df419e60761e2f323af000000000"/>
 		<Metadata name="Document.ПоступлениеГрузов.ObjectModule" id="e2b9bcfc-4183-481b-a035-1e56f6f6ee90.0" configVersion="7119a3e65c3fcb47a510d3d2068f662e00000000"/>
+		<Metadata name="Document.ПоступлениеГрузов.Template.Печать" id="a44c6e00-dcf0-4fa5-87cb-0ee86d1b8574" configVersion="5689f7edc6d96746a361424522b4d8f100000000"/>
+		<Metadata name="Document.ПоступлениеГрузов.Template.Печать.Template" id="a44c6e00-dcf0-4fa5-87cb-0ee86d1b8574.0" configVersion="c990f50fcf4bff4fa3c22ca0719fd5d600000000"/>
 		<Metadata name="Enum.Пол" id="f689c0ba-ca65-4f00-a370-107edf289dea" configVersion="f5dddfccf167394bb301462087a978cc00000000">
 			<Metadata name="Enum.Пол.EnumValue.Женский" id="f7b757d1-d2f5-48eb-adf8-6f85f7da5171"/>
 			<Metadata name="Enum.Пол.EnumValue.Мужской" id="f7e2a3f9-512e-47cf-bbfd-67d601ba8886"/>
