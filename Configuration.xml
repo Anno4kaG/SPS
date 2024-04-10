@@ -213,6 +213,10 @@
 			<Subsystem>Бизнес_процесс</Subsystem>
 			<Subsystem>Общая_информация</Subsystem>
 			<Subsystem>Документация</Subsystem>
+			<Role>Администратор</Role>
+			<Role>Стивидор</Role>
+			<Role>Менеджер</Role>
+			<Role>Логист</Role>
 			<Constant>НаименованиеОрганизации</Constant>
 			<Constant>ЮридическийАдрес</Constant>
 			<Constant>Телефон</Constant>
