@@ -36,7 +36,7 @@
 			<Metadata name="Document.ОказаниеУслуги.Attribute.Судно" id="62946259-7a9e-45ab-a87e-edf827404e3e"/>
 			<Metadata name="Document.ОказаниеУслуги.Attribute.Исполнитель" id="e5780a34-46d5-40d1-a146-8888d2d13c7f"/>
 		</Metadata>
-		<Metadata name="Document.ОтправкаГрузов" id="8946949f-a639-421b-bd08-5a2fbbf5c8ab" configVersion="d1ad55419eaf2c4181fa75fa0697b5c600000000">
+		<Metadata name="Document.ОтправкаГрузов" id="8946949f-a639-421b-bd08-5a2fbbf5c8ab" configVersion="8556eed99257bb48ba4db017a685605b00000000">
 			<Metadata name="Document.ОтправкаГрузов.TabularSection.ТЧ_Отправка.Attribute.ДатаОтправлени" id="02fda308-b598-4b33-b158-4b0061da1684"/>
 			<Metadata name="Document.ОтправкаГрузов.TabularSection.ТЧ_Отправка.Attribute.Груз" id="27d71d05-4a51-47d0-8b10-1b31775420a8"/>
 			<Metadata name="Document.ОтправкаГрузов.TabularSection.ТЧ_Отправка" id="795c2304-d3be-40c6-ab78-3915f41828f1"/>
@@ -44,6 +44,7 @@
 			<Metadata name="Document.ОтправкаГрузов.Attribute.Ответственный" id="bdd21636-db50-4728-a8a8-80a8468afcc2"/>
 			<Metadata name="Document.ОтправкаГрузов.TabularSection.ТЧ_Отправка.Attribute.Судно" id="d2df3b93-e3af-4062-9899-73357d51c61e"/>
 		</Metadata>
+		<Metadata name="Document.ОтправкаГрузов.ObjectModule" id="8946949f-a639-421b-bd08-5a2fbbf5c8ab.0" configVersion="919fab9508a2a5408b723b539580981f00000000"/>
 		<Metadata name="Document.ПоступлениеГрузов" id="e2b9bcfc-4183-481b-a035-1e56f6f6ee90" configVersion="a6fb6ad796e8e4429ff772493671fdcd00000000">
 			<Metadata name="Document.ПоступлениеГрузов.Attribute.Склад" id="53a6f912-4945-4175-a113-4c970137a058"/>
 			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.Груз" id="633a83bb-cc3a-459a-8229-571bea63a660"/>
