@@ -20,6 +20,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ЮридическийАдрес</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.Телефон</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.Почта</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеГрузов</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

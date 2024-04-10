@@ -18,11 +18,20 @@
 		</Metadata>
 		<Metadata name="CommonForm.ФормаКонстант" id="c3087192-1e91-417d-a2f4-66610829e561" configVersion="15f46038bd9e53458bbfa12bebc5d91d00000000"/>
 		<Metadata name="CommonForm.ФормаКонстант.Form" id="c3087192-1e91-417d-a2f4-66610829e561.0" configVersion="1c662d5585db43478fcc0d8ee809953500000000"/>
-		<Metadata name="Configuration.Конфигурация" id="29338f11-5238-42f5-b416-8092b8f58de6" configVersion="1dd91838bd10ad41b8a479eb64788f9400000000"/>
+		<Metadata name="Configuration.Конфигурация" id="29338f11-5238-42f5-b416-8092b8f58de6" configVersion="22bde4436783bc498336ffa4a99641be00000000"/>
 		<Metadata name="Constant.НаименованиеОрганизации" id="bcd1102c-db42-4dcb-a686-d1d54543b1c3" configVersion="171dd9fcf2645e49a57b4b132222789300000000"/>
 		<Metadata name="Constant.Почта" id="553927ab-45b1-4cad-b1bf-8c7fb132879e" configVersion="715b287949650a47ae45fca87fe9085500000000"/>
 		<Metadata name="Constant.Телефон" id="3c5c1677-d0f4-475a-ad89-5029ba4a7ee1" configVersion="53970e9cadc26c46b5a9d660350df25f00000000"/>
 		<Metadata name="Constant.ЮридическийАдрес" id="51777874-19c3-473f-93ff-87f3951a39cf" configVersion="17e932f0bee1464babd38d53d2e5dfd400000000"/>
+		<Metadata name="Document.ПоступлениеГрузов" id="e2b9bcfc-4183-481b-a035-1e56f6f6ee90" configVersion="2421bbc4dd593c4d9b64d6acb8c6e3cd00000000">
+			<Metadata name="Document.ПоступлениеГрузов.Attribute.Склад" id="53a6f912-4945-4175-a113-4c970137a058"/>
+			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.Груз" id="633a83bb-cc3a-459a-8229-571bea63a660"/>
+			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы" id="6dbe4371-0db9-4542-9064-4f22a3015490"/>
+			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.СрокХранения" id="7b09d4b1-24b3-428b-9c17-aa34e0fd952e"/>
+			<Metadata name="Document.ПоступлениеГрузов.Attribute.Ответственный" id="9b68ce92-61ae-4b94-bd2a-674f6ec35e5e"/>
+			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.ДатаПоступления" id="adaa395f-c722-4921-918d-d018d5a5777d"/>
+			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.Судно" id="b8e45b1f-92d6-4eb5-a472-e9983de60857"/>
+		</Metadata>
 		<Metadata name="Enum.Пол" id="f689c0ba-ca65-4f00-a370-107edf289dea" configVersion="f5dddfccf167394bb301462087a978cc00000000">
 			<Metadata name="Enum.Пол.EnumValue.Женский" id="f7b757d1-d2f5-48eb-adf8-6f85f7da5171"/>
 			<Metadata name="Enum.Пол.EnumValue.Мужской" id="f7e2a3f9-512e-47cf-bbfd-67d601ba8886"/>
@@ -38,7 +47,7 @@
 		</Metadata>
 		<Metadata name="Language.Русский" id="c24bf22d-869a-46aa-a186-79c6c87991d9" configVersion="06f7b1c637ccb847834140c7c565e6ee00000000"/>
 		<Metadata name="Subsystem.Бизнес_процесс" id="7c0014c9-cc68-4c4c-bd3c-9ea5b891a0ba" configVersion="a2d5b5587e8a0646b7faf1fc7d3ea9bb00000000"/>
-		<Metadata name="Subsystem.Документация" id="7b115c41-ac7c-4659-ba19-f56d8efd9f2b" configVersion="f91aa1d2b7094d4297b400e4a0f58dbf00000000"/>
+		<Metadata name="Subsystem.Документация" id="7b115c41-ac7c-4659-ba19-f56d8efd9f2b" configVersion="cf2acb809dff754ca8e6e06d6e9a6db500000000"/>
 		<Metadata name="Subsystem.Общая_информация" id="a194f58f-60e4-4b9a-a628-5733a2f4628e" configVersion="0c7d59bfe2275944ab75afc62229030e00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

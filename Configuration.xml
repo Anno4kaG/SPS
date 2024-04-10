@@ -221,6 +221,7 @@
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Судна</Catalog>
 			<Catalog>Грузы</Catalog>
+			<Document>ПоступлениеГрузов</Document>
 			<Enum>Пол</Enum>
 			<Enum>ТипСклада</Enum>
 			<Enum>СтатусСудна</Enum>
