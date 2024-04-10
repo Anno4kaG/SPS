@@ -23,6 +23,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеГрузов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ОказаниеУслуги</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ОтправкаГрузов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.УчетГрузов</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

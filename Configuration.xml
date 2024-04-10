@@ -229,6 +229,7 @@
 			<Enum>ТипСклада</Enum>
 			<Enum>СтатусСудна</Enum>
 			<InformationRegister>СтоимостьПеревозок</InformationRegister>
+			<AccumulationRegister>УчетГрузов</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
