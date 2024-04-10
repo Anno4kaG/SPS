@@ -31,20 +31,30 @@
 		<Metadata name="Constant.Почта" id="553927ab-45b1-4cad-b1bf-8c7fb132879e" configVersion="715b287949650a47ae45fca87fe9085500000000"/>
 		<Metadata name="Constant.Телефон" id="3c5c1677-d0f4-475a-ad89-5029ba4a7ee1" configVersion="53970e9cadc26c46b5a9d660350df25f00000000"/>
 		<Metadata name="Constant.ЮридическийАдрес" id="51777874-19c3-473f-93ff-87f3951a39cf" configVersion="17e932f0bee1464babd38d53d2e5dfd400000000"/>
-		<Metadata name="Document.ОказаниеУслуги" id="fdd48d44-1849-4303-9b88-79614a0f4658" configVersion="74dee25133e15b4ba7b38eab3493ddcb00000000">
+		<Metadata name="Document.ОказаниеУслуги" id="fdd48d44-1849-4303-9b88-79614a0f4658" configVersion="0f304e318503a04c8649b455d631a56d00000000">
 			<Metadata name="Document.ОказаниеУслуги.Attribute.Груз" id="0cbf8239-aa26-46c2-b763-1c7b3e27dda2"/>
+			<Metadata name="Document.ОказаниеУслуги.Command.Печать" id="5c388bef-deb7-42c5-a671-3e227b982fb7"/>
 			<Metadata name="Document.ОказаниеУслуги.Attribute.Судно" id="62946259-7a9e-45ab-a87e-edf827404e3e"/>
 			<Metadata name="Document.ОказаниеУслуги.Attribute.Исполнитель" id="e5780a34-46d5-40d1-a146-8888d2d13c7f"/>
 		</Metadata>
-		<Metadata name="Document.ОтправкаГрузов" id="8946949f-a639-421b-bd08-5a2fbbf5c8ab" configVersion="8556eed99257bb48ba4db017a685605b00000000">
+		<Metadata name="Document.ОказаниеУслуги.Command.Печать.CommandModule" id="5c388bef-deb7-42c5-a671-3e227b982fb7.2" configVersion="883fa6f64f019748bc57d2c027281fbf00000000"/>
+		<Metadata name="Document.ОказаниеУслуги.ManagerModule" id="fdd48d44-1849-4303-9b88-79614a0f4658.2" configVersion="e429e3e2d7e93e4f8887dffa4cae3afa00000000"/>
+		<Metadata name="Document.ОказаниеУслуги.Template.Печать" id="8f18b899-77d6-4b42-b767-b180140d0921" configVersion="7d69db0d20af514f95a3d78c5935239a00000000"/>
+		<Metadata name="Document.ОказаниеУслуги.Template.Печать.Template" id="8f18b899-77d6-4b42-b767-b180140d0921.0" configVersion="f8e4da1b5c52e649965be0faa592432b00000000"/>
+		<Metadata name="Document.ОтправкаГрузов" id="8946949f-a639-421b-bd08-5a2fbbf5c8ab" configVersion="11ebb46a2eafdb49a870723f33a5490e00000000">
 			<Metadata name="Document.ОтправкаГрузов.TabularSection.ТЧ_Отправка.Attribute.ДатаОтправлени" id="02fda308-b598-4b33-b158-4b0061da1684"/>
 			<Metadata name="Document.ОтправкаГрузов.TabularSection.ТЧ_Отправка.Attribute.Груз" id="27d71d05-4a51-47d0-8b10-1b31775420a8"/>
+			<Metadata name="Document.ОтправкаГрузов.Command.Печать" id="44daa97c-fdc8-42de-90f3-3347811836c5"/>
 			<Metadata name="Document.ОтправкаГрузов.TabularSection.ТЧ_Отправка" id="795c2304-d3be-40c6-ab78-3915f41828f1"/>
 			<Metadata name="Document.ОтправкаГрузов.Attribute.Склад" id="797ff0e1-d4f2-470d-ad53-ff823690024d"/>
 			<Metadata name="Document.ОтправкаГрузов.Attribute.Ответственный" id="bdd21636-db50-4728-a8a8-80a8468afcc2"/>
 			<Metadata name="Document.ОтправкаГрузов.TabularSection.ТЧ_Отправка.Attribute.Судно" id="d2df3b93-e3af-4062-9899-73357d51c61e"/>
 		</Metadata>
+		<Metadata name="Document.ОтправкаГрузов.Command.Печать.CommandModule" id="44daa97c-fdc8-42de-90f3-3347811836c5.2" configVersion="504185fdc398734c939c0e8a719e0c3400000000"/>
+		<Metadata name="Document.ОтправкаГрузов.ManagerModule" id="8946949f-a639-421b-bd08-5a2fbbf5c8ab.2" configVersion="dd8789f80902f24ab3891348d095232d00000000"/>
 		<Metadata name="Document.ОтправкаГрузов.ObjectModule" id="8946949f-a639-421b-bd08-5a2fbbf5c8ab.0" configVersion="919fab9508a2a5408b723b539580981f00000000"/>
+		<Metadata name="Document.ОтправкаГрузов.Template.Печать" id="30249d3e-7442-436a-b267-8688ad1a06a8" configVersion="06641b2b6eac5744b98f0f0a3c92582e00000000"/>
+		<Metadata name="Document.ОтправкаГрузов.Template.Печать.Template" id="30249d3e-7442-436a-b267-8688ad1a06a8.0" configVersion="b7edca8827d79643a9a780cd0b68714300000000"/>
 		<Metadata name="Document.ПоступлениеГрузов" id="e2b9bcfc-4183-481b-a035-1e56f6f6ee90" configVersion="043a6c1c58e5884fae693623c9b5207200000000">
 			<Metadata name="Document.ПоступлениеГрузов.Attribute.Склад" id="53a6f912-4945-4175-a113-4c970137a058"/>
 			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.Груз" id="633a83bb-cc3a-459a-8229-571bea63a660"/>
