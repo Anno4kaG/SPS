@@ -19,6 +19,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Сотрудники</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Судна</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Грузы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.СтоимостьПеревозок</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.РасстоянияПеревозок</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

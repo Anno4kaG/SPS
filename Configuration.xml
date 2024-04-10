@@ -221,11 +221,13 @@
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Судна</Catalog>
 			<Catalog>Грузы</Catalog>
+			<Catalog>РасстоянияПеревозок</Catalog>
 			<Document>ПоступлениеГрузов</Document>
 			<Document>ОказаниеУслуги</Document>
 			<Enum>Пол</Enum>
 			<Enum>ТипСклада</Enum>
 			<Enum>СтатусСудна</Enum>
+			<InformationRegister>СтоимостьПеревозок</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

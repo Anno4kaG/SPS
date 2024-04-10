@@ -2,6 +2,10 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
 	<ConfigVersions>
 		<Metadata name="Catalog.Грузы" id="acbdfc71-6087-4b32-ba6e-bc4bb53c64ba" configVersion="dee10ff662d20e41b1016fc7f63399e600000000"/>
+		<Metadata name="Catalog.РасстоянияПеревозок" id="f8309ba6-1cb4-415e-9ec8-00bd30c90ab6" configVersion="7a8813c7156bba4bb6fcb00e087fbce500000000">
+			<Metadata name="Catalog.РасстоянияПеревозок.Attribute.ДатаУстановки" id="06b9bc34-9aa9-4e6d-82c6-a1aba48adab6"/>
+			<Metadata name="Catalog.РасстоянияПеревозок.Attribute.Километраж" id="8bb2c69c-6d7f-4b74-903d-b86385977288"/>
+		</Metadata>
 		<Metadata name="Catalog.Сотрудники" id="4a584f08-42ce-4db5-8c38-996d7cafd09f" configVersion="b228a03319fd5145a0d6c0232f06a6ce00000000">
 			<Metadata name="Catalog.Сотрудники.TabularSection.ТЧ_ТрудоваяДеятельность.Attribute.Должность" id="41ab332d-fb28-46b3-884a-72e789a78862"/>
 			<Metadata name="Catalog.Сотрудники.TabularSection.ТЧ_ТрудоваяДеятельность" id="5d00b77d-a5af-466d-8668-a814892aa131"/>
@@ -18,7 +22,7 @@
 		</Metadata>
 		<Metadata name="CommonForm.ФормаКонстант" id="c3087192-1e91-417d-a2f4-66610829e561" configVersion="15f46038bd9e53458bbfa12bebc5d91d00000000"/>
 		<Metadata name="CommonForm.ФормаКонстант.Form" id="c3087192-1e91-417d-a2f4-66610829e561.0" configVersion="1c662d5585db43478fcc0d8ee809953500000000"/>
-		<Metadata name="Configuration.Конфигурация" id="29338f11-5238-42f5-b416-8092b8f58de6" configVersion="cf2b7e77c5ebc94596fa51b66a6f654300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="29338f11-5238-42f5-b416-8092b8f58de6" configVersion="949eb4cd1f530348bb3364b8d1552ab200000000"/>
 		<Metadata name="Constant.НаименованиеОрганизации" id="bcd1102c-db42-4dcb-a686-d1d54543b1c3" configVersion="171dd9fcf2645e49a57b4b132222789300000000"/>
 		<Metadata name="Constant.Почта" id="553927ab-45b1-4cad-b1bf-8c7fb132879e" configVersion="715b287949650a47ae45fca87fe9085500000000"/>
 		<Metadata name="Constant.Телефон" id="3c5c1677-d0f4-475a-ad89-5029ba4a7ee1" configVersion="53970e9cadc26c46b5a9d660350df25f00000000"/>
@@ -50,9 +54,13 @@
 			<Metadata name="Enum.ТипСклада.EnumValue.Закрытый" id="6814ddfc-f993-455c-b360-5460a65ba75d"/>
 			<Metadata name="Enum.ТипСклада.EnumValue.Открытый" id="c0b9a961-8110-4fee-bb77-311d8ed3ec4f"/>
 		</Metadata>
+		<Metadata name="InformationRegister.СтоимостьПеревозок" id="d97f369c-6129-4897-9d2b-d4750fe542dc" configVersion="7d485c1a1c26814ab2302448f785651500000000">
+			<Metadata name="InformationRegister.СтоимостьПеревозок.Resource.Сумма" id="a8050b33-b7cc-4023-8e98-ab3731fcd28f"/>
+			<Metadata name="InformationRegister.СтоимостьПеревозок.Dimension.Расстояние" id="b32e56fe-57e7-4737-8ec7-f9497ec494cf"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="c24bf22d-869a-46aa-a186-79c6c87991d9" configVersion="06f7b1c637ccb847834140c7c565e6ee00000000"/>
 		<Metadata name="Subsystem.Бизнес_процесс" id="7c0014c9-cc68-4c4c-bd3c-9ea5b891a0ba" configVersion="a2d5b5587e8a0646b7faf1fc7d3ea9bb00000000"/>
 		<Metadata name="Subsystem.Документация" id="7b115c41-ac7c-4659-ba19-f56d8efd9f2b" configVersion="bcd7cf0df65cb6429c886616685a050c00000000"/>
-		<Metadata name="Subsystem.Общая_информация" id="a194f58f-60e4-4b9a-a628-5733a2f4628e" configVersion="0c7d59bfe2275944ab75afc62229030e00000000"/>
+		<Metadata name="Subsystem.Общая_информация" id="a194f58f-60e4-4b9a-a628-5733a2f4628e" configVersion="0ebc0371b78b33428a8aa444db50812000000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
