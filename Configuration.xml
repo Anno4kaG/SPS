@@ -222,6 +222,7 @@
 			<Catalog>Судна</Catalog>
 			<Catalog>Грузы</Catalog>
 			<Document>ПоступлениеГрузов</Document>
+			<Document>ОказаниеУслуги</Document>
 			<Enum>Пол</Enum>
 			<Enum>ТипСклада</Enum>
 			<Enum>СтатусСудна</Enum>

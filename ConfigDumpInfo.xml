@@ -18,11 +18,16 @@
 		</Metadata>
 		<Metadata name="CommonForm.ФормаКонстант" id="c3087192-1e91-417d-a2f4-66610829e561" configVersion="15f46038bd9e53458bbfa12bebc5d91d00000000"/>
 		<Metadata name="CommonForm.ФормаКонстант.Form" id="c3087192-1e91-417d-a2f4-66610829e561.0" configVersion="1c662d5585db43478fcc0d8ee809953500000000"/>
-		<Metadata name="Configuration.Конфигурация" id="29338f11-5238-42f5-b416-8092b8f58de6" configVersion="22bde4436783bc498336ffa4a99641be00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="29338f11-5238-42f5-b416-8092b8f58de6" configVersion="cf2b7e77c5ebc94596fa51b66a6f654300000000"/>
 		<Metadata name="Constant.НаименованиеОрганизации" id="bcd1102c-db42-4dcb-a686-d1d54543b1c3" configVersion="171dd9fcf2645e49a57b4b132222789300000000"/>
 		<Metadata name="Constant.Почта" id="553927ab-45b1-4cad-b1bf-8c7fb132879e" configVersion="715b287949650a47ae45fca87fe9085500000000"/>
 		<Metadata name="Constant.Телефон" id="3c5c1677-d0f4-475a-ad89-5029ba4a7ee1" configVersion="53970e9cadc26c46b5a9d660350df25f00000000"/>
 		<Metadata name="Constant.ЮридическийАдрес" id="51777874-19c3-473f-93ff-87f3951a39cf" configVersion="17e932f0bee1464babd38d53d2e5dfd400000000"/>
+		<Metadata name="Document.ОказаниеУслуги" id="fdd48d44-1849-4303-9b88-79614a0f4658" configVersion="74dee25133e15b4ba7b38eab3493ddcb00000000">
+			<Metadata name="Document.ОказаниеУслуги.Attribute.Груз" id="0cbf8239-aa26-46c2-b763-1c7b3e27dda2"/>
+			<Metadata name="Document.ОказаниеУслуги.Attribute.Судно" id="62946259-7a9e-45ab-a87e-edf827404e3e"/>
+			<Metadata name="Document.ОказаниеУслуги.Attribute.Исполнитель" id="e5780a34-46d5-40d1-a146-8888d2d13c7f"/>
+		</Metadata>
 		<Metadata name="Document.ПоступлениеГрузов" id="e2b9bcfc-4183-481b-a035-1e56f6f6ee90" configVersion="2421bbc4dd593c4d9b64d6acb8c6e3cd00000000">
 			<Metadata name="Document.ПоступлениеГрузов.Attribute.Склад" id="53a6f912-4945-4175-a113-4c970137a058"/>
 			<Metadata name="Document.ПоступлениеГрузов.TabularSection.ТЧ_Грузы.Attribute.Груз" id="633a83bb-cc3a-459a-8229-571bea63a660"/>
@@ -47,7 +52,7 @@
 		</Metadata>
 		<Metadata name="Language.Русский" id="c24bf22d-869a-46aa-a186-79c6c87991d9" configVersion="06f7b1c637ccb847834140c7c565e6ee00000000"/>
 		<Metadata name="Subsystem.Бизнес_процесс" id="7c0014c9-cc68-4c4c-bd3c-9ea5b891a0ba" configVersion="a2d5b5587e8a0646b7faf1fc7d3ea9bb00000000"/>
-		<Metadata name="Subsystem.Документация" id="7b115c41-ac7c-4659-ba19-f56d8efd9f2b" configVersion="cf2acb809dff754ca8e6e06d6e9a6db500000000"/>
+		<Metadata name="Subsystem.Документация" id="7b115c41-ac7c-4659-ba19-f56d8efd9f2b" configVersion="bcd7cf0df65cb6429c886616685a050c00000000"/>
 		<Metadata name="Subsystem.Общая_информация" id="a194f58f-60e4-4b9a-a628-5733a2f4628e" configVersion="0c7d59bfe2275944ab75afc62229030e00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
