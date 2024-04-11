@@ -490,13 +490,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Subsystem.Бизнес_процесс</name>
-		<right>
-			<name>View</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>AccumulationRegister.УчетГрузов</name>
 		<right>
 			<name>Read</name>

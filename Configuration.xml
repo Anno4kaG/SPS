@@ -210,7 +210,6 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Subsystem>Бизнес_процесс</Subsystem>
 			<Subsystem>Общая_информация</Subsystem>
 			<Subsystem>Документация</Subsystem>
 			<Role>Администратор</Role>

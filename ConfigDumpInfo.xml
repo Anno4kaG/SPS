@@ -26,7 +26,7 @@
 		</Metadata>
 		<Metadata name="CommonForm.ФормаКонстант" id="c3087192-1e91-417d-a2f4-66610829e561" configVersion="15f46038bd9e53458bbfa12bebc5d91d00000000"/>
 		<Metadata name="CommonForm.ФормаКонстант.Form" id="c3087192-1e91-417d-a2f4-66610829e561.0" configVersion="1c662d5585db43478fcc0d8ee809953500000000"/>
-		<Metadata name="Configuration.Конфигурация" id="29338f11-5238-42f5-b416-8092b8f58de6" configVersion="9099c9850c57ac4dbde32706d725406300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="29338f11-5238-42f5-b416-8092b8f58de6" configVersion="476fec9598844f458950b2210493d50e00000000"/>
 		<Metadata name="Constant.НаименованиеОрганизации" id="bcd1102c-db42-4dcb-a686-d1d54543b1c3" configVersion="171dd9fcf2645e49a57b4b132222789300000000"/>
 		<Metadata name="Constant.Почта" id="553927ab-45b1-4cad-b1bf-8c7fb132879e" configVersion="715b287949650a47ae45fca87fe9085500000000"/>
 		<Metadata name="Constant.Телефон" id="3c5c1677-d0f4-475a-ad89-5029ba4a7ee1" configVersion="53970e9cadc26c46b5a9d660350df25f00000000"/>
@@ -99,7 +99,6 @@
 		<Metadata name="Role.Менеджер.Rights" id="82916d3f-9d24-42b6-9134-e865d73bebc4.0" configVersion="a24f8fbd506f7f4e847465611f63eda100000000"/>
 		<Metadata name="Role.Стивидор" id="6e91538c-4398-4391-b589-a9410a4fccb2" configVersion="e50ed84a5a475b49a66e92cb99bfaad200000000"/>
 		<Metadata name="Role.Стивидор.Rights" id="6e91538c-4398-4391-b589-a9410a4fccb2.0" configVersion="d923c9fc882a6e4a9ddbfff041e4c1ea00000000"/>
-		<Metadata name="Subsystem.Бизнес_процесс" id="7c0014c9-cc68-4c4c-bd3c-9ea5b891a0ba" configVersion="a2d5b5587e8a0646b7faf1fc7d3ea9bb00000000"/>
 		<Metadata name="Subsystem.Документация" id="7b115c41-ac7c-4659-ba19-f56d8efd9f2b" configVersion="21686c84e89b3642b3734553e2dedaac00000000"/>
 		<Metadata name="Subsystem.Документация.CommandInterface" id="7b115c41-ac7c-4659-ba19-f56d8efd9f2b.1" configVersion="bc02572481168b4ca2ecb655cfe8f9c200000000"/>
 		<Metadata name="Subsystem.Общая_информация" id="a194f58f-60e4-4b9a-a628-5733a2f4628e" configVersion="0ebc0371b78b33428a8aa444db50812000000000"/>
